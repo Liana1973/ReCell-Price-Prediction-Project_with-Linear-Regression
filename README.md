@@ -46,3 +46,17 @@ The final Linear Regression model was evaluated using regression metrics and ass
 
 ## Author
 Liana Graham
+****
+## Visualizations
+
+### Distribution of Used Device Prices
+
+![Price Distribution](images/price_distribution.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### RAM Distribution by Brand
+
+![RAM by Brand](images/ram_by_brand.png)
