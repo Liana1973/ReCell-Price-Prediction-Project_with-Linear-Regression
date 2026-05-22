@@ -53,10 +53,26 @@ Liana Graham
 
 ![Price Distribution](images/price_distribution.png)
 
+---
+
 ### Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
 
+---
+
 ### RAM Distribution by Brand
 
 ![RAM by Brand](images/ram_by_brand.png)
+
+---
+
+### 4G vs 5G Price Comparison
+
+![5G Comparison](images/5g_price_comparison.png)
+
+---
+
+### Selfie Camera Analysis
+
+![Selfie Camera Analysis](images/selfie_camera_analysis.png)
