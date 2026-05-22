@@ -1,4 +1,10 @@
 # ReCell Used Device Price Prediction
+# ReCell Used Device Price Prediction
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Project Overview
 This project analyzes the factors affecting the resale prices of used mobile devices and builds a Linear Regression model to predict normalized used prices.
