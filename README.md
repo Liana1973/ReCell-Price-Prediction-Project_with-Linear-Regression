@@ -44,6 +44,18 @@ The dataset contains information about:
 ## Model
 The final Linear Regression model was evaluated using regression metrics and assumption testing.
 
+## Model Performance
+
+The Linear Regression model was evaluated using:
+
+- R-squared
+- RMSE
+- MAE
+- Residual analysis
+- Assumption testing
+
+The model demonstrated strong predictive capability and identified several statistically significant pricing factors.
+
 ## Tools & Libraries
 - Python
 - Pandas
