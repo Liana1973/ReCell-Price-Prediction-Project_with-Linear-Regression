@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ## Project Overview
-This project analyzes the factors affecting the resale prices of used mobile devices and builds a Linear Regression model to predict normalized used prices.
 
 The project includes:
 
@@ -18,6 +17,10 @@ The project includes:
 - Linear Regression Modeling
 - Assumption Testing
 - Business Insights & Recommendations
+
+ ## Business Objective
+
+The goal of this project is to help ReCell develop a data-driven pricing strategy for used and refurbished mobile devices by identifying the key factors affecting resale value.
 
 ## Dataset Features
 The dataset contains information about:
